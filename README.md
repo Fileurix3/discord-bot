@@ -22,6 +22,7 @@ Level is given for activity in chat, one message 0.05 levels, the amount of leve
     <li>!add @user 0 - adds the specified number of levels</li>
     <li>!reduce @user 0 - takes a specified number of levels</li>
     <li>!change @user 0 - sets the level to the user</li>
+    <li>!clear - clearing chat</li>
 </ul>
 <li><b>commands that everyone can use</b></li>
 <ul type = "circle">
