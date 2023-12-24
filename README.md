@@ -1,6 +1,7 @@
 <h1>Discord bot</h1>
 
 <h4>python version - 3.12</h4>
+<h4>sqlite3</h4>
 <h4>using the discord.py library</h4>
 <h2>about</h2>
 Discord bot for issuing roles by user level:
